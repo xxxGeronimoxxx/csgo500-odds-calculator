@@ -1,0 +1,1 @@
+# csgo500-odds-calculator
